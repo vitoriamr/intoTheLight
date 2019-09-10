@@ -10,6 +10,7 @@ namespace UnityStandardAssets._2D
     {
         private PlatformerCharacter2D m_Character;
         private bool m_Jump;
+        public int birbDead;
 
         private void Awake()
         {
@@ -22,7 +23,7 @@ namespace UnityStandardAssets._2D
             if (!m_Jump && Time.timeScale != 0)
             {
                 // Read the jump input in Update so button presses aren't missed.
-                m_Jump = Input.GetKeyDown("joystick 1 button 0");
+                m_Jump = Input.GetKeyDown("joystick 1 button 0") || Input.GetKeyDown(KeyCode.Space);
             }
         }
 
