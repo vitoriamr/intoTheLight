@@ -8,6 +8,8 @@ namespace UnityStandardAssets._2D
     public class PlatformerCharacter2D : MonoBehaviour
     {
         [SerializeField] private float m_MaxSpeed = 10f;                    // The fastest the player can travel in the x axis.
+        [SerializeField] private float m_MaxSlimeSpeed = 3f;                    // The fastest the player can travel in the x axis.
+        [SerializeField] private float m_Slide = 4f;                        // The fastest the player can slide in the x axis.
         [SerializeField] private float m_JumpForce = 300f;                  // Amount of force added when the player jumps.
         [SerializeField] private bool m_AirControl = false;                 // Whether or not a player can steer while jumping;
 
@@ -18,6 +20,8 @@ namespace UnityStandardAssets._2D
         const float k_CeilingRadius = .01f; // Radius of the overlap circle to determine if the player can stand up
         private Rigidbody2D m_Rigidbody2D;
         private bool m_FacingRight = true;  // For determining which way the player is currently facing.
+        private bool ice = false;
+        private bool slime = false;
 
         private void Awake()
         {
@@ -35,23 +39,71 @@ namespace UnityStandardAssets._2D
             // The player is grounded if a circlecast to the groundcheck position hits anything designated as ground
             // This can be done using layers instead but Sample Assets will not overwrite your project settings.
             Collider2D[] colliders = Physics2D.OverlapCircleAll(m_GroundCheck.position, k_GroundedRadius);
+            
+            if(colliders.Length == 1) 
+            { 
+                ice = false;
+                slime = false; 
+            }
 
             for (int i = 0; i < colliders.Length; i++)
             {
                 if (colliders[i].gameObject != gameObject){
+                    if(colliders[i].gameObject.tag == "Ice"){
+                        ice = true;
+                    } else {
+                        ice = false;
+                    };
+                    if(colliders[i].gameObject.tag == "Slime"){
+                        slime = true;
+                    } else {
+                        slime = false;
+                    };
                     m_Grounded = true;
                 }
             }
+            
+            Debug.Log(slime);
+
         }
 
 
-        public void Move(float move, bool crouch, bool jump)
+        public void Move(float move, bool jump)
         {   
             //only control the player if grounded or airControl is turned on
             if (m_Grounded || m_AirControl)
-            {
-                // Move the character
-                m_Rigidbody2D.velocity = new Vector2(move*m_MaxSpeed, m_Rigidbody2D.velocity.y);
+            {                          
+                // Ice ground movement
+                if (ice)
+                {
+                    if(m_FacingRight && move == 0)
+                    {
+                        m_Rigidbody2D.velocity = new Vector2(1*m_Slide, m_Rigidbody2D.velocity.y);
+                    } 
+                    if(!m_FacingRight && move == 0) 
+                    {
+                        m_Rigidbody2D.velocity = new Vector2(-1*m_Slide, m_Rigidbody2D.velocity.y);
+                    }
+
+                    if(m_FacingRight && move > 0 )
+                    {
+                        m_Rigidbody2D.velocity = new Vector2(1*(m_Slide+m_MaxSpeed), m_Rigidbody2D.velocity.y);
+                    }
+                    if(!m_FacingRight && move > 0)
+                    {
+                        m_Rigidbody2D.velocity = new Vector2(-1*(m_Slide+m_MaxSpeed), m_Rigidbody2D.velocity.y);
+                    }
+                }
+                //Slime ground move
+                else if (slime)
+                {
+                    m_Rigidbody2D.velocity = new Vector2(move*m_MaxSlimeSpeed, m_Rigidbody2D.velocity.y);
+                } 
+                
+                //Normal move
+                else {
+                    m_Rigidbody2D.velocity = new Vector2(move*m_MaxSpeed, m_Rigidbody2D.velocity.y);
+                }
 
                 // If the input is moving the player right and the player is facing left...
                 if (move > 0 && !m_FacingRight)
@@ -63,7 +115,7 @@ namespace UnityStandardAssets._2D
                 else if (move < 0 && m_FacingRight)
                 {
                     // ... flip the player.
-                    Flip();
+                    Flip(); 
                 }
             }
             // If the player should jump...
@@ -71,8 +123,15 @@ namespace UnityStandardAssets._2D
             {
                 // Add a vertical force to the player.
                 m_Grounded = false;
-                m_Rigidbody2D.AddForce(new Vector2(0f, m_JumpForce));
+                if(!slime) {
+                    m_Rigidbody2D.AddForce(new Vector2(0f, m_JumpForce));
+                }
+                if (slime) {
+                    m_Rigidbody2D.AddForce(new Vector2(0f, 250f));
+                }
+                
             }
+
         }
 
 
