@@ -7,6 +7,8 @@ TagManager:
   - Ground
   - Ice
   - Slime
+  - Enemy
+  - Limit
   layers:
   - Default
   - TransparentFX

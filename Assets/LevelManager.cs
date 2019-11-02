@@ -8,8 +8,12 @@ using UnityEngine.SceneManagement;
 public class LevelManager : MonoBehaviour {
 
 	public GameObject birbSpawn;
+	public UnityStandardAssets._2D.Platformer2DUserControl player;
 
-	public UnityStandardAssets._2D.Platformer2DUserControl birb;
+	public GameObject birb;
+	public GameObject foxr;
+
+	public GameObject posun;
 
 	public Image StartText;
 	public GameObject PauseMenu;
@@ -19,8 +23,14 @@ public class LevelManager : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+		player = FindObjectOfType<UnityStandardAssets._2D.Platformer2DUserControl>();
+
 		m_MainCamera = Camera.main;
-		birb = FindObjectOfType<UnityStandardAssets._2D.Platformer2DUserControl>();
+		birb = GameObject.Find("Birb");
+		foxr = GameObject.Find("Foxr");
+		foxr.SetActive(false);
+		posun = GameObject.Find("Posun");
+		posun.SetActive(false);
 		Time.timeScale = 0;
 		StartText = GameObject.Find("PressStart").GetComponent<Image>();
 		PauseMenu = GameObject.Find("MainMenuBtn");
@@ -32,23 +42,41 @@ public class LevelManager : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-		if(Time.timeScale == 1 && !birb.GetComponent<Renderer>().isVisible) {
-           birb.birbDead = 1;
+		if(Time.timeScale == 1 && !player.GetComponent<Renderer>().isVisible) {
+           player.birbDead = 1;
 		}
 
-		if (birb.birbDead == 1)
+		if (player.birbDead == 1)
 		{
         	SceneManager.LoadScene("sec");
 		}
 
 		if (Input.GetKeyDown(KeyCode.R))
 		{
-			birb.birbDead = 0;
+			player.birbDead = 0;
 			RespawnBirb();
+		}
+
+		if (Input.GetKeyDown(KeyCode.C))
+		{
+			if(birb.activeSelf == true) {
+				birb.SetActive(false);
+				foxr.SetActive(true);
+			} else if (foxr.activeSelf == true) {
+				foxr.SetActive(false);
+				posun.SetActive(true);
+			} else if (posun.activeSelf == true) {
+				posun.SetActive(false);
+				birb.SetActive(true);
+			}
+			
+			player = FindObjectOfType<UnityStandardAssets._2D.Platformer2DUserControl>();
+
 		}
 
 		if (Input.GetKeyDown(KeyCode.P) || Input.GetKeyDown("joystick 1 button 7"))
 		{	
+			player = FindObjectOfType<UnityStandardAssets._2D.Platformer2DUserControl>();
 			if (Time.timeScale == 0) {
 				StartText.enabled = false;
 				PauseMenu.SetActive(false);
@@ -66,7 +94,7 @@ public class LevelManager : MonoBehaviour {
 
 	public void RespawnBirb()
 	{
-		birb.transform.position = birbSpawn.transform.position;
-		birb.GetComponent<Rigidbody2D>().velocity = Vector3.zero;
+		player.transform.position = birbSpawn.transform.position;
+		player.GetComponent<Rigidbody2D>().velocity = Vector3.zero;
 	}
 }
