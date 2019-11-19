@@ -12,14 +12,16 @@ public class LevelManager : MonoBehaviour {
 
 	public GameObject birb;
 	public GameObject foxr;
-
 	public GameObject posun;
+
+	public Text countText;
 
 	public Image StartText;
 	public GameObject PauseMenu;
 	public GameObject PauseQuit;
 	Camera m_MainCamera;
 	public int frame;
+	private int count;
 
 	// Use this for initialization
 	void Start () {
@@ -92,8 +94,14 @@ public class LevelManager : MonoBehaviour {
 		}
 	}
 
+	void FixedUpdate () {
+		count = Mathf.RoundToInt(Time.timeSinceLevelLoad);
+		countText.text = "Score:  " + count.ToString();
+	}
+
 	public void RespawnBirb()
 	{
+		count = 0;
 		player.transform.position = birbSpawn.transform.position;
 		player.GetComponent<Rigidbody2D>().velocity = Vector3.zero;
 	}
