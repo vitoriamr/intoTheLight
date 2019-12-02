@@ -22,6 +22,7 @@ public class LevelManager : MonoBehaviour {
 	Camera m_MainCamera;
 	public int frame;
 	private int count;
+	public AudioSource m_MyAudioSource;
 
 	// Use this for initialization
 	void Start () {
@@ -39,6 +40,7 @@ public class LevelManager : MonoBehaviour {
 		PauseQuit = GameObject.Find("QuitBtn");
 		PauseMenu.SetActive(false);
 		PauseQuit.SetActive(false);
+		m_MyAudioSource = GetComponent<AudioSource>();
 	}
 	
 	// Update is called once per frame
@@ -84,12 +86,14 @@ public class LevelManager : MonoBehaviour {
 				PauseMenu.SetActive(false);
 				PauseQuit.SetActive(false);
 				Time.timeScale = 1;
+				m_MyAudioSource.Play();
 			}
 			else {
 				Time.timeScale = 0;
 				StartText.enabled = true;
 				PauseMenu.SetActive(true);
 				PauseQuit.SetActive(true);
+				m_MyAudioSource.Pause();
 			}
 		}
 	}
