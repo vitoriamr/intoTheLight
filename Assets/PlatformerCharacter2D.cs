@@ -62,7 +62,7 @@ namespace UnityStandardAssets._2D
                     };
                     m_Grounded = true;
                     if(colliders[i].gameObject.tag == "Enemy"){
-                        SceneManager.LoadScene("sec");
+                        PlayerPrefs.SetInt("dead", 1);
                     };
                 }
             }
