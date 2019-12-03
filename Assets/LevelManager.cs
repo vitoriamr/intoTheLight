@@ -57,6 +57,7 @@ public class LevelManager : MonoBehaviour {
 		if (player.birbDead == 1 || PlayerPrefs.GetInt("dead") == 1)
 		{
 			PlayerPrefs.SetInt("score", count);
+			PlayerPrefs.SetInt("dead", 0);
 			SceneManager.LoadScene("death");
 		}
 
