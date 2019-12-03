@@ -194,7 +194,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -322,7 +322,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -424,7 +424,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -813,7 +813,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -916,7 +916,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -1221,7 +1221,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -1375,7 +1375,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -1636,7 +1636,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -1715,7 +1715,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -1880,7 +1880,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -2121,7 +2121,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -2362,7 +2362,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -2441,7 +2441,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -2994,7 +2994,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -3551,7 +3551,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -3897,7 +3897,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -4107,7 +4107,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -4185,7 +4185,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -4349,7 +4349,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -4428,7 +4428,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -4972,7 +4972,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -5050,7 +5050,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -5212,7 +5212,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -5430,7 +5430,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -5598,7 +5598,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -5727,7 +5727,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -5806,7 +5806,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -5910,7 +5910,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -6149,7 +6149,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -6385,7 +6385,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -6701,7 +6701,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -6965,7 +6965,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -7119,7 +7119,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -7302,7 +7302,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -7456,7 +7456,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -7746,7 +7746,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -8036,7 +8036,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -8138,7 +8138,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -8510,7 +8510,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -8716,7 +8716,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -9105,7 +9105,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -9290,7 +9290,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -9499,7 +9499,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -9627,7 +9627,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -9730,7 +9730,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -9841,7 +9841,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -9995,7 +9995,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -10889,7 +10889,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -11030,7 +11030,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -11134,7 +11134,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -11526,7 +11526,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -11637,7 +11637,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -12058,7 +12058,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -12344,7 +12344,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -12605,7 +12605,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -13162,7 +13162,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -13241,7 +13241,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -13513,7 +13513,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -13641,7 +13641,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -13769,7 +13769,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -13871,7 +13871,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -14400,7 +14400,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -14478,7 +14478,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -14706,7 +14706,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -15285,7 +15285,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -15494,7 +15494,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -15703,7 +15703,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -15986,7 +15986,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -16355,7 +16355,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -16509,7 +16509,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -16718,7 +16718,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -17250,7 +17250,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -17485,7 +17485,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -17588,7 +17588,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -17744,7 +17744,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -17978,7 +17978,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -18137,7 +18137,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -18265,7 +18265,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -18459,7 +18459,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -18618,7 +18618,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -18746,7 +18746,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -19143,7 +19143,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -19330,7 +19330,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -19889,7 +19889,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -20207,7 +20207,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -20578,7 +20578,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -21054,7 +21054,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -21558,7 +21558,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -21816,7 +21816,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -21928,7 +21928,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -22113,7 +22113,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -22456,7 +22456,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -22803,7 +22803,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -22906,7 +22906,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -22984,7 +22984,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -23376,7 +23376,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -23505,7 +23505,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -23697,7 +23697,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -23851,7 +23851,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -24011,7 +24011,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -24576,7 +24576,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -24654,7 +24654,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -24816,7 +24816,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -25081,7 +25081,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -25379,7 +25379,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -25507,7 +25507,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -25830,7 +25830,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -26389,7 +26389,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -27212,7 +27212,6 @@ MonoBehaviour:
   foxr: {fileID: 493025496}
   posun: {fileID: 1416482786}
   countText: {fileID: 1987200885}
-  mText: {fileID: 0}
   StartText: {fileID: 0}
   PauseMenu: {fileID: 1773313768}
   PauseQuit: {fileID: 0}
@@ -27639,7 +27638,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -27793,7 +27792,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -27896,7 +27895,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -27975,7 +27974,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -28160,7 +28159,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -28263,7 +28262,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -28342,7 +28341,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -28421,7 +28420,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -28606,7 +28605,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -28894,7 +28893,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -29023,7 +29022,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -29264,7 +29263,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -29526,7 +29525,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -29941,7 +29940,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -30069,7 +30068,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -30172,7 +30171,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -30287,7 +30286,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -30447,7 +30446,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -30525,7 +30524,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -31084,7 +31083,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -31341,7 +31340,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -31710,7 +31709,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -32130,7 +32129,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -32365,7 +32364,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -33037,7 +33036,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -33416,7 +33415,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -33519,7 +33518,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -34384,7 +34383,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -34669,7 +34668,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -35143,7 +35142,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -35246,7 +35245,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -35402,7 +35401,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -35747,7 +35746,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -35963,7 +35962,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -36238,7 +36237,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -36685,7 +36684,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -36787,7 +36786,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -36915,7 +36914,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -37150,7 +37149,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -37570,7 +37569,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -37755,7 +37754,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -37858,7 +37857,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -38017,7 +38016,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -38180,7 +38179,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -38522,7 +38521,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -38650,7 +38649,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -38933,7 +38932,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -39216,7 +39215,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -39498,7 +39497,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -39880,7 +39879,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -40299,7 +40298,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -40401,7 +40400,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -40529,7 +40528,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -40724,7 +40723,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -40803,7 +40802,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -40963,7 +40962,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -41342,7 +41341,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -42142,7 +42141,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -42362,7 +42361,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -42465,7 +42464,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -43095,7 +43094,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -43229,7 +43228,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -43383,7 +43382,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -43511,7 +43510,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -43679,7 +43678,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -43783,7 +43782,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -43886,7 +43885,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -44158,7 +44157,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -44388,7 +44387,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -44832,7 +44831,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -45011,7 +45010,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -45139,7 +45138,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -45267,7 +45266,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -45509,7 +45508,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -45588,7 +45587,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -45692,7 +45691,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -47124,7 +47123,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -47202,7 +47201,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -47331,7 +47330,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -47490,7 +47489,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -47695,7 +47694,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -47905,7 +47904,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -48061,7 +48060,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -48139,7 +48138,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -48348,7 +48347,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -48477,7 +48476,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -48556,7 +48555,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -48809,7 +48808,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -49073,7 +49072,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -49356,7 +49355,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -49566,7 +49565,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -49946,7 +49945,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -50100,7 +50099,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -50203,7 +50202,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -50362,7 +50361,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -50516,7 +50515,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -51038,7 +51037,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -51177,7 +51176,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -51256,7 +51255,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -51415,7 +51414,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -51569,7 +51568,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -51708,7 +51707,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -51812,7 +51811,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -52069,7 +52068,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -52279,7 +52278,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -53565,7 +53564,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -53643,7 +53642,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -53797,7 +53796,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -54464,7 +54463,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -54784,7 +54783,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -55025,7 +55024,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -55184,7 +55183,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -55390,7 +55389,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -55546,7 +55545,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -55624,7 +55623,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -56004,7 +56003,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -56339,7 +56338,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -56545,7 +56544,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -56649,7 +56648,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -56777,7 +56776,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -56879,7 +56878,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -57514,7 +57513,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -57642,7 +57641,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -57770,7 +57769,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -57906,7 +57905,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -58010,7 +58009,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -58194,7 +58193,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -58684,7 +58683,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -59140,7 +59139,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -59288,7 +59287,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -60300,7 +60299,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -60619,7 +60618,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -60958,7 +60957,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -61117,7 +61116,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -61246,7 +61245,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -61325,7 +61324,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -61429,7 +61428,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -61532,7 +61531,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -61611,7 +61610,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -61690,7 +61689,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -61849,7 +61848,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -61978,7 +61977,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -62298,7 +62297,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -62492,7 +62491,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -62878,7 +62877,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -63296,7 +63295,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -63797,7 +63796,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -64087,7 +64086,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -64348,7 +64347,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -64636,7 +64635,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -64821,7 +64820,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -65127,7 +65126,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -65206,7 +65205,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -65285,7 +65284,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -66035,7 +66034,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -66421,7 +66420,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
@@ -66575,7 +66574,7 @@ PlatformEffector2D:
   m_RotationalOffset: 270
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 0
@@ -66791,7 +66790,7 @@ PlatformEffector2D:
   m_RotationalOffset: 0
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
+  m_SurfaceArc: 360
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
