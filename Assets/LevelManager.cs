@@ -22,7 +22,10 @@ public class LevelManager : MonoBehaviour {
 	Camera m_MainCamera;
 	public int frame;
 	private int count;
-	public AudioSource m_MyAudioSource;
+	public AudioClip clip1;
+	public AudioClip clip2;
+	AudioSource m_MyAudioSource;
+	Scene currentScene;
 
 	// Use this for initialization
 	void Start () {
@@ -41,6 +44,7 @@ public class LevelManager : MonoBehaviour {
 		PauseMenu.SetActive(false);
 		PauseQuit.SetActive(false);
 		m_MyAudioSource = GetComponent<AudioSource>();
+	    currentScene = SceneManager.GetActiveScene ();
 	}
 	
 	// Update is called once per frame
@@ -52,16 +56,18 @@ public class LevelManager : MonoBehaviour {
 
 		if (player.birbDead == 1)
 		{
-        	SceneManager.LoadScene("sec");
+			PlayerPrefs.SetInt("score", count);
+			SceneManager.LoadScene("death");
 		}
 
 		if (Input.GetKeyDown(KeyCode.R))
 		{
 			player.birbDead = 0;
 			RespawnBirb();
+			SceneManager.LoadScene("sec");
 		}
 
-		if (Input.GetKeyDown(KeyCode.C))
+		if (Input.GetKeyDown(KeyCode.C) && currentScene.name == "sec")
 		{
 			if(birb.activeSelf == true) {
 				birb.SetActive(false);
@@ -78,7 +84,7 @@ public class LevelManager : MonoBehaviour {
 
 		}
 
-		if (Input.GetKeyDown(KeyCode.P) || Input.GetKeyDown("joystick 1 button 7"))
+		if ((Input.GetKeyDown(KeyCode.P) || Input.GetKeyDown("joystick 1 button 7"))&& currentScene.name == "sec")
 		{	
 			player = FindObjectOfType<UnityStandardAssets._2D.Platformer2DUserControl>();
 			if (Time.timeScale == 0) {

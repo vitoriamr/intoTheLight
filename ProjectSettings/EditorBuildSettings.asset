@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/sec.unity
     guid: 23049a97a1d93a943ab0df6f28c18436
+  - enabled: 1
+    path: Assets/death.unity
+    guid: 644054539cc3129478731e3dc6485b1f
   m_configObjects: {}
