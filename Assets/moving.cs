@@ -17,6 +17,8 @@ public class moving : MonoBehaviour
     {
         if(!lastSky.GetComponent<Renderer>().isVisible) {
             transform.Translate(0, Time.deltaTime, 0, Space.World);
+        } else {
+            SceneManager.LoadScene("win");
         }
     }
 }
