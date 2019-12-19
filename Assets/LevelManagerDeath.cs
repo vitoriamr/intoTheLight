@@ -28,7 +28,7 @@ public class LevelManagerDeath : MonoBehaviour {
 	void Update () {
 		if (Input.GetKeyDown(KeyCode.R))
 		{
-			SceneManager.LoadScene("sec");
+			SceneManager.LoadScene("mainmenu");
 		}
 	}
 }

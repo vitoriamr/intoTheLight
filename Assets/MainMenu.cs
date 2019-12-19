@@ -1,26 +1,33 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour {
 
 	public void ToMenu() {
-		SceneManager.LoadScene("MainMenu");
+		Application.LoadLevel("MainMenu");
 	}
 	public void ToMaps() {
-		SceneManager.LoadScene("MapSelector");
+		Application.LoadLevel("MapSelector");
 	}
 	public void ToOriginal() {
-		SceneManager.LoadScene("sec");
+		Application.LoadLevel("sec");
 	}
 	public void ToDesktop() {
 		Application.Quit();
 	}
 	void Update () {
-		if (Input.GetKeyDown(KeyCode.Escape) || Input.GetKeyDown("joystick 2 button 6") || Input.GetKeyDown("joystick 2 button 6"))
+		if (Input.GetKeyDown(KeyCode.Escape))
 		{
-			SceneManager.LoadScene("sec");
+			Application.LoadLevel("MainMenu");
+		}
+		if (Input.GetKeyDown(KeyCode.S))
+		{
+			Application.LoadLevel("sec");
+		}
+		if (Input.GetKeyDown(KeyCode.Q))
+		{
+			Application.Quit();
 		}
 	}
 }
