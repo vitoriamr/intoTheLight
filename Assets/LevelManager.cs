@@ -39,17 +39,14 @@ public class LevelManager : MonoBehaviour {
 		posun.SetActive(false);
 		Time.timeScale = 0;
 		StartText = GameObject.Find("PressStart").GetComponent<Image>();
-		PauseMenu = GameObject.Find("MainMenuBtn");
-		PauseQuit = GameObject.Find("QuitBtn");
-		PauseMenu.SetActive(false);
-		PauseQuit.SetActive(false);
+		PauseMenu = GameObject.Find("C-change-character");
+		PauseQuit = GameObject.Find("P-pause--start");
 		m_MyAudioSource = GetComponent<AudioSource>();
-	    currentScene = SceneManager.GetActiveScene ();
 	}
 	
 	// Update is called once per frame
 	void Update () {
-
+		currentScene = SceneManager.GetActiveScene ();
 		if(Time.timeScale == 1 && !player.GetComponent<Renderer>().isVisible) {
            player.birbDead = 1;
 		}
@@ -65,10 +62,10 @@ public class LevelManager : MonoBehaviour {
 		{
 			player.birbDead = 0;
 			RespawnBirb();
-			SceneManager.LoadScene("sec");
+			SceneManager.LoadScene("mainmenu");
 		}
 
-		if (Input.GetKeyDown(KeyCode.C) && currentScene.name == "sec")
+		if (Input.GetKeyDown(KeyCode.C) && (currentScene.name == "first" || currentScene.name == "sec" || currentScene.name == "third"))
 		{
 			if(birb.activeSelf == true) {
 				birb.SetActive(false);
@@ -85,7 +82,7 @@ public class LevelManager : MonoBehaviour {
 
 		}
 
-		if ((Input.GetKeyDown(KeyCode.P) || Input.GetKeyDown("joystick 1 button 7"))&& currentScene.name == "sec")
+		if (Input.GetKeyDown(KeyCode.P)  && (currentScene.name == "first" || currentScene.name == "sec" || currentScene.name == "third"))
 		{	
 			player = FindObjectOfType<UnityStandardAssets._2D.Platformer2DUserControl>();
 			if (Time.timeScale == 0) {
